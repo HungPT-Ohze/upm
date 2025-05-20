@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.ohze.google.external-dependency-manager": {
+      "version": "file:com.ohze.google.external-dependency-manager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "2.8.2",
       "depth": 0,
