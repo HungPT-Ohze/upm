@@ -22,6 +22,14 @@
         "com.ohze.google.external-dependency-manager": "1.2.185"
       }
     },
+    "com.ohze.google.firebase.crashlytics": {
+      "version": "file:com.ohze.google.firebase.crashlytics",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.ohze.google.firebase.app": "12.8.0"
+      }
+    },
     "com.ohze.google.firebase.remote-config": {
       "version": "file:com.ohze.google.firebase.remote-config",
       "depth": 0,
@@ -29,6 +37,12 @@
       "dependencies": {
         "com.ohze.google.firebase.app": "12.8.0"
       }
+    },
+    "com.ohze.sdk.facebook": {
+      "version": "file:com.ohze.sdk.facebook",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.unity.collab-proxy": {
       "version": "2.8.2",
